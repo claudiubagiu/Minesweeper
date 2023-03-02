@@ -1,1 +1,0 @@
-C:\Visual Studio\Minesweeper\x64\Debug\Minesweeper.exe
